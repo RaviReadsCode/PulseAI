@@ -18,7 +18,7 @@ PulseAI is an open-source web application that enables anyone to upload an ECG s
 
 ![PulseAI Screenshot](ui/assets/logo.png)
 ![First_screen](ui/assets/First_screen.PNG)
-![success_screen](ui/assets/Success_screen.PNG)
+![success_screen](ui/assets/success_screen.PNG)
 
 ---
 
