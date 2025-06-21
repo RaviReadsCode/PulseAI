@@ -1,0 +1,8 @@
+streamlit
+torch
+transformers
+wfdb
+scipy
+numpy
+pandas
+matplotlib

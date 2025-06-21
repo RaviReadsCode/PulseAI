@@ -1,0 +1,18 @@
+# Python + Streamlit
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Logs, models, and temp files
+*.h5
+*.pkl
+*.log
+*.csv
+*.db
+
+# Streamlit cache
+.streamlit/
+
+# VS Code config
+.vscode/
