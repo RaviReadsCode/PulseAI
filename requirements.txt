@@ -1,11 +1,9 @@
 streamlit
-torch
-transformers
-wfdb
-scipy
+tensorflow==2.11.0
+scikit-learn
+joblib
 numpy
 pandas
 matplotlib
-tensorflow==2.9.1
-scikit-learn
-joblib
+scipy
+wfdb
